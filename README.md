@@ -7,3 +7,5 @@ WhatsApp: (16)99404-8434
 
 Linkedin: https://www.linkedin.com/in/marina-j%C3%BAlia-silva-55a9b5154
 
+![Snake animation](https://github.com/marinajulia/marinajulia/blob/master/github-user-contribution.svg)
+
