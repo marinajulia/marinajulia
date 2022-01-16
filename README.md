@@ -3,8 +3,6 @@
 
 Would you like to contact me? 
 
-WhatsApp: (16)99404-8434
-
 Linkedin: https://www.linkedin.com/in/marina-j%C3%BAlia-silva-55a9b5154
 
 
