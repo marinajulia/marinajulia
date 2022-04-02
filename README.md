@@ -4,5 +4,7 @@ Would you like to contact me?
 
 Linkedin: https://www.linkedin.com/in/marina-j%C3%BAlia-silva-55a9b5154
 
+![gitartwork](gitartwork.svg)
+
 
 
