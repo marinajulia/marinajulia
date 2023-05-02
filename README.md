@@ -10,5 +10,10 @@ Linkedin: https://www.linkedin.com/in/marina-j%C3%BAlia-silva-55a9b5154
 
 ![gitartwork](gitartwork.svg)
 
+<p align="center"> 
+  Visitor count | Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/marinajulia/count.svg" />
+</p>
+
 
 
