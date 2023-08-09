@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: marinajulia
             # Text on contribution graph 
-            text: MARINA
+            text: C# <3
        - uses: jasineri/simple-push-action@v1
